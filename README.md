@@ -6,6 +6,8 @@
 
 ### 代表作品
 
+**[uedsee思维导图](https://www.uedsee.com/)** — 免注册和安装的思维导图,支持web和手机使用。
+
 **[pixel art course](https://pixel-art-course.pages.dev/)** — 零基础像素画学习课程。
 
 **[Image2pixel](https://github.com/32comic/image2pixel-web)** — 将图片一键转换为像素风图片。是像素画、拼豆爱好者的创作工具。
