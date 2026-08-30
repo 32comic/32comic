@@ -6,21 +6,11 @@
 
 ### 代表作品
 
-**[uedsee思维导图](https://www.uedsee.com/)** — 免注册和安装的思维导图,支持web和手机使用。
-
-**[pixel art course](https://pixel-art-course.pages.dev/)** — 零基础像素画学习课程。
-
 **[Image2pixel](https://github.com/32comic/image2pixel-web)** — 将图片一键转换为像素风图片。是像素画、拼豆爱好者的创作工具。
 
 **[Pixel Artist Directory](https://www.pixelartist.org/)** — 收集我喜欢的像素画家。
 
-**[像素画教程每周分享](https://github.com/32comic/Weekly_PixelartTutorials)** — 收集我喜欢的像素画和像素画教程。
-
 **[pix32 Pixel Font](https://github.com/32comic/Pix32)** — 手搓像素字体。
-
-**[monoboards](https://github.com/32comic/monoboards)** — 单HTML文件，零依赖。 Trello替代品。
-
-**[任意游戏策划案生成](https://github.com/32comic/game-design-document)** — 可以将模糊想法变成游戏策划案GDD的Skill。
 
 **[VerseDaily](https://versedaily.app/)** — PWA经文站。
 
